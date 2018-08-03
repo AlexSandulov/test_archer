@@ -1,0 +1,5 @@
+# `facebook_live` environment config goes here
+modules:
+  config:
+    WebDriver:
+      url: 'https://facebook.com'
